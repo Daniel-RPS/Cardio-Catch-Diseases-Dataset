@@ -13,3 +13,10 @@ Cardio Catch Disease.ipynb - Levantando algumas hipóteses que estão no dataset
 4 - Todos os pacientes com pressões sistólica e diastólica normais não possuem doença cardíaca.
 
 5 - Pessoas que praticam exercícios não possuem doenças cardíacas.
+
+
+Cardio Catch Disease - Machine Learning.ipynb
+
+- Aplicando algoritmos Classificadores
+
+- Encontrando a acurácia e a Precisão da ferramenta
